@@ -6,6 +6,7 @@ import com.pm.patientservice.services.PatientService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import lombok.AllArgsConstructor;
+import lombok.NoArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
@@ -16,11 +17,13 @@ import java.util.UUID;
 @RestController
 @RequestMapping("/patients")
 @Tag(name = "Patient", description = "API for managing Patients")
-@AllArgsConstructor
 public class PatientController {
 
     private final PatientService patientService;
 
+    public PatientController(PatientService patientService) {
+        this.patientService = patientService;
+    }
 
     @GetMapping
     @Operation(summary = "Get Patients")

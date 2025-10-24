@@ -1,0 +1,8 @@
+--java_out=D:\Aditi Coding\Hospital-Management-Services\patientservice\target\generated-sources\protobuf
+--plugin=protoc-gen-614e7d36af4b2aee74ebb8c2c87edeeaaf15da30=C:\Users\aditi\.m2\repository\io\grpc\protoc-gen-grpc-java\1.74.0\protoc-gen-grpc-java-1.74.0-windows-x86_64.exe
+--614e7d36af4b2aee74ebb8c2c87edeeaaf15da30_out=D:\Aditi Coding\Hospital-Management-Services\patientservice\target\generated-sources\protobuf
+--614e7d36af4b2aee74ebb8c2c87edeeaaf15da30_opt=@generated=omit
+D:\Aditi Coding\Hospital-Management-Services\patientservice\src\main\proto\billing_service.proto
+--proto_path=D:\Aditi Coding\Hospital-Management-Services\patientservice\src\main\proto
+--proto_path=D:\Aditi Coding\Hospital-Management-Services\patientservice\target\protobuf-maven-plugin\generate\generate\archives\protobuf-java-4.31.1-eb106d9cafa43dc2e7160ecbae172b17e178710
+--proto_path=D:\Aditi Coding\Hospital-Management-Services\patientservice\target\protobuf-maven-plugin\generate\generate\archives\grpc-services-1.74.0-dabd72349c48155aff9bba56b7121e2e5b717c25
