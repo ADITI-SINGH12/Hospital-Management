@@ -18,6 +18,9 @@
       "file:///D:/Aditi%20Coding/Hospital-Management-Services/patientservice/target/protobuf-maven-plugin/generate/generate/archives/protobuf-java-4.31.1-eb106d9cafa43dc2e7160ecbae172b17e178710/google/protobuf/empty.proto": "5c1984a1472c3b54843f4d5d2dcb07849958072a67d942aec735f54ffba42909c211021eaf468ee250887fb9d5148346283966e4fcf7616f0a2d545e",
       "file:///D:/Aditi%20Coding/Hospital-Management-Services/patientservice/target/protobuf-maven-plugin/generate/generate/archives/protobuf-java-4.31.1-eb106d9cafa43dc2e7160ecbae172b17e178710/google/protobuf/wrappers.proto": "f06df8b194abbd29bbb80541c6790d6dd8139221b77292d24318ec83431f78789bb102190f2a9cd4bad5f3595ad15eadc3ca578ac6c7be197cfd3a9ef820"
     },
-    "proto_sources": {"file:///D:/Aditi%20Coding/Hospital-Management-Services/patientservice/src/main/proto/billing_service.proto": "262e02dfbda97ecce653e7774c9557e3abca4215d07e939661f539ad5feec866c8c643068c3b51cfdaa7585dc73b491a1b7752a7ea61b3dd3cb28383a"},
+    "proto_sources": {
+      "file:///D:/Aditi%20Coding/Hospital-Management-Services/patientservice/src/main/proto/patient_event.proto": "17928cd1c9978e8bc0c4658261caec7167743b5d413948a1deceadda2fb9f018f77a6c6e3e12d52c2dfd472acedc4f35b9e567c808d1fdfa3ce388448987ef0",
+      "file:///D:/Aditi%20Coding/Hospital-Management-Services/patientservice/src/main/proto/billing_service.proto": "262e02dfbda97ecce653e7774c9557e3abca4215d07e939661f539ad5feec866c8c643068c3b51cfdaa7585dc73b491a1b7752a7ea61b3dd3cb28383a"
+    },
     "descriptor_files": {}
   }

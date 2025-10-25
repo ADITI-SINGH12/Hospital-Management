@@ -5,6 +5,8 @@ D:\Aditi Coding\Hospital-Management-Services\patientservice\src\main\java\com\pm
 D:\Aditi Coding\Hospital-Management-Services\patientservice\src\main\java\com\pm\patientservice\exception\EmailAlreadyExistsException.java
 D:\Aditi Coding\Hospital-Management-Services\patientservice\src\main\java\com\pm\patientservice\exception\GlobalExceptionHandler.java
 D:\Aditi Coding\Hospital-Management-Services\patientservice\src\main\java\com\pm\patientservice\exception\PatientNotFoundException.java
+D:\Aditi Coding\Hospital-Management-Services\patientservice\src\main\java\com\pm\patientservice\grpc\BillingServiceGrpcClient.java
+D:\Aditi Coding\Hospital-Management-Services\patientservice\src\main\java\com\pm\patientservice\kafka\KafkaProducer.java
 D:\Aditi Coding\Hospital-Management-Services\patientservice\src\main\java\com\pm\patientservice\mapper\PatientMapper.java
 D:\Aditi Coding\Hospital-Management-Services\patientservice\src\main\java\com\pm\patientservice\model\Patient.java
 D:\Aditi Coding\Hospital-Management-Services\patientservice\src\main\java\com\pm\patientservice\PatientserviceApplication.java
@@ -16,3 +18,6 @@ D:\Aditi Coding\Hospital-Management-Services\patientservice\target\generated-sou
 D:\Aditi Coding\Hospital-Management-Services\patientservice\target\generated-sources\protobuf\billing\BillingResponseOrBuilder.java
 D:\Aditi Coding\Hospital-Management-Services\patientservice\target\generated-sources\protobuf\billing\BillingServiceGrpc.java
 D:\Aditi Coding\Hospital-Management-Services\patientservice\target\generated-sources\protobuf\billing\BillingServiceOuterClass.java
+D:\Aditi Coding\Hospital-Management-Services\patientservice\target\generated-sources\protobuf\patient\events\PatientEvent.java
+D:\Aditi Coding\Hospital-Management-Services\patientservice\target\generated-sources\protobuf\patient\events\PatientEventOrBuilder.java
+D:\Aditi Coding\Hospital-Management-Services\patientservice\target\generated-sources\protobuf\patient\events\PatientEventOuterClass.java

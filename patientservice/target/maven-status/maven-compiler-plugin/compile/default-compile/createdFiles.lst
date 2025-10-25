@@ -1,9 +1,12 @@
 com\pm\patientservice\PatientserviceApplication.class
 billing\BillingServiceOuterClass.class
+com\pm\patientservice\grpc\BillingServiceGrpcClient.class
 billing\BillingServiceGrpc$3.class
 billing\BillingServiceGrpc$BillingServiceImplBase.class
+patient\events\PatientEventOrBuilder.class
 billing\BillingResponse$1.class
 com\pm\patientservice\dto\PatientRequestDTO.class
+patient\events\PatientEvent$Builder.class
 billing\BillingServiceGrpc$BillingServiceBaseDescriptorSupplier.class
 billing\BillingRequest$Builder.class
 billing\BillingRequestOrBuilder.class
@@ -12,12 +15,14 @@ com\pm\patientservice\repository\PatientRepository.class
 com\pm\patientservice\services\PatientService.class
 billing\BillingServiceGrpc$BillingServiceBlockingStub.class
 com\pm\patientservice\controller\PatientController.class
+com\pm\patientservice\kafka\KafkaProducer.class
 billing\BillingRequest.class
 billing\BillingServiceGrpc$1.class
 billing\BillingServiceGrpc$BillingServiceStub.class
 com\pm\patientservice\dto\ErrorResponseDTO.class
 com\pm\patientservice\model\Patient.class
 billing\BillingServiceGrpc$BillingServiceFutureStub.class
+patient\events\PatientEvent$1.class
 billing\BillingServiceGrpc$2.class
 billing\BillingServiceGrpc$MethodHandlers.class
 billing\BillingRequest$1.class
@@ -28,7 +33,9 @@ billing\BillingServiceGrpc$4.class
 com\pm\patientservice\mapper\PatientMapper.class
 com\pm\patientservice\dto\PatientResponseDTO.class
 billing\BillingServiceGrpc$BillingServiceMethodDescriptorSupplier.class
+patient\events\PatientEventOuterClass.class
 billing\BillingResponse$Builder.class
+patient\events\PatientEvent.class
 com\pm\patientservice\exception\EmailAlreadyExistsException.class
 com\pm\patientservice\exception\GlobalExceptionHandler.class
 billing\BillingServiceGrpc.class
